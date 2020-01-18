@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: EM-Sim
+Version: 0.0.2
+Summary: Electromagnetic Simulator
+Home-page: https://github.com/amurill9/EM-Sim
+Author: EM.py-r3-CAL()
+License: UNKNOWN
+Description: # EM-Sim
+        
+        Electromagnetic Simulator
+        
+        ## Authors
+        
+        Created by EM.py-r3-CAL():
+        
+        - Adrian Murillo
+        - John McMurry
+        - Jess Fan
+        - Andrew Dinh
+        - David Huang
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown

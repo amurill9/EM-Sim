@@ -1,0 +1,6 @@
+setup.py
+EM_Sim.egg-info/PKG-INFO
+EM_Sim.egg-info/SOURCES.txt
+EM_Sim.egg-info/dependency_links.txt
+EM_Sim.egg-info/top_level.txt
+em-sim/__init__.py
