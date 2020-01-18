@@ -1,12 +1,7 @@
 #include <math.h>
 
-float surfaceIntegral();
-
-
-float areaIntegral();
-
 float gaussE(float epsilon, float rho, float omega);
 
-float gauusRho();
+float gaussRho(float epsilon, float E, float omega);
 
-float gaussEpsilon();
+float gaussEpsilon(float E, float rho, float omega);
