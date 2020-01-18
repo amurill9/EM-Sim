@@ -1,8 +1,13 @@
 #include "em_sim.h"
 
+float gaussE(float E, float rho, float o_rho, float o_phi, float o_theta){
+	return 1;
+}
 
-float gaussE(float epsilon, float rho, omega omega);
+float gaussRho(float E, float rho, float o_rho, float o_phi, float o_theta){
+	return 1;
+}
 
-float gaussRho(float epsilon, float E, omega o);
-
-float gaussEpsilon(float E, float rho, omega o);
+float gaussEpsilon(float E, float rho, float o_rho, float o_phi, float o_theta){
+	return 1;
+}

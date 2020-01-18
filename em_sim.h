@@ -1,11 +1,8 @@
 #include <math.h>
 #include <stdlib.h>
 
-float gaussE(float epsilon, float rho, omega o);
+float gaussE(float epsilon, float rho, float o_rho, float o_phi, float o_theta);
 
-float gaussRho(float epsilon, float E, omega o);
+float gaussRho(float E, float epsilon, float o_rho, float o_phi, float o_theta);
 
-float gaussEpsilon(float E, float rho, omega o);
-
-typedef struct omega {float rho, float theta, float phi} omega;
-
+float gaussEpsilon(float E, float rho, float o_rho, float o_phi, float o_theta);
