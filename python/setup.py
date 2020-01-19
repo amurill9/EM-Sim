@@ -4,11 +4,11 @@ with open("../README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="EM-Sim", 
+    name="EM_Sim", 
     version="0.0.2",
     author="EM.py-r3-CAL()",
     # author_email="",
-    description="EM-Sim: Electromagnetic Simulator",
+    description="EM_Sim: Electromagnetic Simulator",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/amurill9/EM-Sim",
